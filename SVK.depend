@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1613300979 source:/home/pavullon/cpp projekty/klawisze SFML/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<fstream>
+
+1613474183 source:/home/pavullon/cpp projekty/klawisze SFML (SVK)/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1613474183 source:/home/pavullon/cpp projekty/Simple Virtual Keyboard/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
